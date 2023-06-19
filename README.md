@@ -13,11 +13,11 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://twitter.com/ajitmps1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajitmps1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajit-mishra-049350212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit-mishra-049350212/" height="30" width="40" /></a>
-<a href="https://instagram.com/a_j_i_t__m_i_s_h_r_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_j_i_t__m_i_s_h_r_a" height="30" width="40" /></a>
+<a href="[https://twitter.com/ajitmps1](https://twitter.com/ajitmps1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ajit_Mishra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ajit-mishra-049350212/](https://www.linkedin.com/in/ajit-mishra-049350212/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajit Mishra" height="30" width="40" /></a>
+<a href="[https://instagram.com/a_j_i_t__m_i_s_h_r_a/](https://www.linkedin.com/in/ajit-mishra-049350212/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ajit Mishra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/a4ajit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a4ajit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mishraji17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishraji17/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mishraji17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ajit Mishra" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/a4ajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a4ajit" height="30" width="40" /></a>
 </p>
 
@@ -42,12 +42,12 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://twitter.com/mishraji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mishraji123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mishraji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishraji123" height="30" width="40" /></a>
-<a href="https://instagram.com/mishraji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishraji123" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mishraji123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mishraji123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mishraji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mishraji123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mishraji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishraji123" height="30" width="40" /></a>
+<a href="[https://twitter.com/ajitmps1](https://twitter.com/ajitmps1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ajit_Mishra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ajit-mishra-049350212/](https://www.linkedin.com/in/ajit-mishra-049350212/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajit Mishra" height="30" width="40" /></a>
+<a href="[https://instagram.com/a_j_i_t__m_i_s_h_r_a/](https://www.linkedin.com/in/ajit-mishra-049350212/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ajit Mishra" height="30" width="40" /></a>
+<a href="[https://www.codechef.com/users/mishraji123](https://www.codechef.com/users/a4ajit)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a4ajit" height="30" width="40" /></a>
+<a href="h[ttps://www.leetcode.com/mishraji123](https://www.leetcode.com/mishraji17/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ajit Mishra" height="30" width="40" /></a>
+<a href="[https://codeforces.com/profile/mishraji123](https://codeforces.com/profile/a4ajit)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a4ajit" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
