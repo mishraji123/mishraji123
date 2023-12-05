@@ -1,11 +1,7 @@
 <h1 align="left">Hi there, I am Ajit Mishra</h1>
 <h3 align="left">Learner | Tech Enthusiast | Programmar</h3>
 
-- 🔭 I’m currently working on *Home Automation.*
-
 - 🌱 Learning  *Web development & DSA*
-
-- 💬 Ask me about *DSA*
 
 - 📫 How to reach me *ajitmishramps@gmail.com*
 <hr>
